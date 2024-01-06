@@ -1,0 +1,39 @@
+class RouteName {
+  static const String splashScreen = '/';
+  static const String welcomeScreen = '/WelcomeScreen';
+  static const String loginScreen = '/loginscreen';
+  static const String signupScreen = '/Signupscreen';
+  static const String otpScreen = '/Otpscreen';
+  static const String termsConditionScreen = '/TermsCondition';
+  static const String venuScreen = '/VenueScreen';
+  static const String createVenuDetailScreen = '/VenueDetails';
+  static const String createVenuKycScreen = '/KycVenueScreen';
+  static const String createVenuBankScreen = '/BankingVenueScreen';
+  static const String socialMediaScreen = '/SocialMedia';
+  static const String aboutScreen = '/About';
+  static const String helpScreen = '/Help';
+  static const String createEvent = '/NewEventScreen';
+  static const String mainScreen = '/MainScreen';
+  static const String settingScreen = '/SettingScreen';
+  static const String accountScreen  = '/AccountScreen';
+  static const String manageNotification  = '/ManageNotification';
+  static const String staffScreen = '/StaffScreen';
+  static const String createSupervisor = '/CreateSupervisor';
+  static const String allStaffScreen = '/AllStaffStarScreen';
+  static const String neweventclub = '/NewEventClub';
+  static const String democardview = '/DraftedEvents';
+  static const String eventrequest = '/EventRequest';
+  static const String profilescreen = '/ProfileScreen';
+  static const String createprofilescreen = '/CreateProfileScreen';
+  static const String editduties = '/EditDutiesScreen';
+  static const String editprofilescreen = '/EditProfileScreen';
+  static const String calendarScreen  = '/CalendarScreen';
+  static const String supervisorscreen = '/SupervisorScreen';
+  static const String newprofile = '/NewProfile';
+  static const String publishevent = '/PublishEvents';
+  static const String signupotp = '/SignupOtp';
+  static const String ticketscreen = '/TicketScreen';
+  static const String createticket = '/CreateTicket';
+  static const String personalDetails = '/PersonalDetails';
+
+}
